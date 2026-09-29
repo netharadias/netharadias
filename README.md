@@ -84,30 +84,52 @@ const nethara = {
 <div align="center">
 
 <a href="https://github.com/netharadias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netharadias&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=A855F7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netharadias&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netharadias&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=A855F7&text_color=ffffff&ring_color=A855F7&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netharadias&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&text_color=ffffff&langs_count=6"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=netharadias&theme=radical&hide_border=true&background=0D0221&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=netharadias&theme=radical&hide_border=true&background=0D0221&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netharadias&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
+
+| 🎯 Achievement | Status |
+|:-------------|:------:|
+| 🌟 First Repository Created | ✅ Done |
+| 💻 First HTML Project Published | ✅ Done |
+| 🚀 First GitHub Commit | ✅ Done |
+| 🎨 3+ Projects Live on GitHub | ✅ Done |
+| 🔗 GitHub Profile README Configured | ✅ Done |
+| ⭐ First Star Received | 🔄 Soon |
+| 🤝 Open Source Contributor | 🔄 Soon |
+| 🌍 Portfolio Website Live | 🔄 Building |
+
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🗣️ 2025 Learning Roadmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netharadias&bg_color=0D0221&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+```
+🟢  HTML5 & Semantic Markup      ████████████████████  100%
+🟢  CSS3 & Flexbox / Grid        ████████████████░░░░   80%
+🟡  JavaScript Fundamentals      ████████████░░░░░░░░   60%
+🟠  React.js                     ████████░░░░░░░░░░░░   40%
+🔴  TypeScript                   ████░░░░░░░░░░░░░░░░   20%
+🔴  Node.js & Backend            ██░░░░░░░░░░░░░░░░░░   10%
+```
+
+[![roadmap](https://img.shields.io/badge/Goal-Full%20Stack%20Developer%20by%202026-A855F7?style=for-the-badge&labelColor=0D0221)](https://github.com/netharadias)
+
 </div>
 
 ---
