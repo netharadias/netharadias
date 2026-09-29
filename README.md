@@ -99,7 +99,7 @@ const nethara = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netharadias&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=netharadias&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=4&" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -129,7 +129,7 @@ const nethara = {
 
 <div align="center">
 
-![snake gif](https://github.com/netharadias/netharadias/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/netharadias/netharadias/output/github-snake-dark.svg)
 
 </div>
 
