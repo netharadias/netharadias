@@ -99,7 +99,7 @@ const nethara = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netharadias&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=4&" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=netharadias&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ const nethara = {
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netharadias&bg_color=0D0221&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F720" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netharadias&bg_color=0D0221&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -115,12 +115,59 @@ const nethara = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/netharadias/dias">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=netharadias&repo=dias&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
-  </a>
-  <a href="https://github.com/netharadias/dminz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=netharadias&repo=dminz&theme=radical&hide_border=true&bg_color=0D0221&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
-  </a>
+
+<table border="0" cellpadding="8">
+<tr>
+<td align="center" width="50%">
+
+**📁 dias**
+
+[![dias](https://img.shields.io/badge/▶%20View%20Project-dias-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/netharadias/dias)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+*Frontend web project*
+
+</td>
+<td align="center" width="50%">
+
+**📁 dminz**
+
+[![dminz](https://img.shields.io/badge/▶%20View%20Project-dminz-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/netharadias/dminz)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+*Design experiment project*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📁 dias1**
+
+[![dias1](https://img.shields.io/badge/▶%20View%20Project-dias1-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/netharadias/dias1)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+*Web project v2.0*
+
+</td>
+<td align="center" width="50%">
+
+**🔗 More Coming Soon**
+
+[![Profile](https://img.shields.io/badge/All%20Projects-Visit%20Profile-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/netharadias?tab=repositories)
+
+🚀 *Building new things...*
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
